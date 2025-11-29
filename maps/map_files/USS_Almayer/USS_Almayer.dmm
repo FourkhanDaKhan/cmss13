@@ -427,6 +427,12 @@
 	},
 /turf/open/floor/almayer/test_floor4,
 /area/almayer/powered)
+"abb" = (
+/obj/structure/machinery/cm_vending/sorted/medical/wall_med{
+	pixel_y = -25
+	},
+/turf/open/floor/almayer/plate,
+/area/almayer/command/cic)
 "abc" = (
 /obj/structure/machinery/power/apc/almayer/east,
 /turf/open/floor/plating/plating_catwalk,
@@ -4518,6 +4524,11 @@
 	},
 /turf/open/floor/almayer/green/north,
 /area/almayer/hallways/upper/fore_hallway)
+"akq" = (
+/obj/structure/surface/table/reinforced/black,
+/obj/item/map/galaxy,
+/turf/open/floor/carpet,
+/area/almayer/command/cicconference)
 "akr" = (
 /turf/open/floor/almayer/plating_striped/west,
 /area/almayer/shipboard/port_point_defense)
@@ -4605,6 +4616,12 @@
 "akG" = (
 /turf/open/floor/almayer/red/southeast,
 /area/almayer/command/cicconference)
+"akH" = (
+/obj/structure/sign/third_fleet_info{
+	pixel_y = 29
+	},
+/turf/open/floor/almayer/plate,
+/area/almayer/command/cic)
 "akJ" = (
 /turf/open/floor/almayer/plating_striped/west,
 /area/almayer/hallways/lower/port_midship_hallway)
@@ -49648,12 +49665,6 @@
 	},
 /turf/open/floor/almayer/no_build/plate,
 /area/almayer/underdeck/req)
-"gvq" = (
-/obj/structure/machinery/cm_vending/sorted/medical/wall_med{
-	pixel_y = -25
-	},
-/turf/open/floor/almayer/plate,
-/area/almayer/command/cic)
 "gvu" = (
 /turf/open/floor/almayer/green/north,
 /area/almayer/hallways/upper/fore_hallway)
@@ -60321,11 +60332,6 @@
 /obj/structure/cargo_container/uscm/right,
 /turf/open/floor/almayer/no_build/plating,
 /area/almayer/underdeck/req)
-"kOf" = (
-/obj/structure/surface/table/reinforced/black,
-/obj/item/map/galaxy,
-/turf/open/floor/carpet,
-/area/almayer/command/cicconference)
 "kOo" = (
 /obj/effect/decal/warning_stripes{
 	icon_state = "W"
@@ -78081,12 +78087,6 @@
 /obj/effect/decal/cleanable/blood/oil/streak,
 /turf/open/floor/almayer/plate,
 /area/almayer/engineering/upper_engineering/port)
-"rTU" = (
-/obj/structure/sign/third_fleet_info{
-	pixel_y = 29
-	},
-/turf/open/floor/almayer/plate,
-/area/almayer/command/cic)
 "rTZ" = (
 /obj/structure/sign/safety/maint{
 	pixel_x = -17
@@ -195544,7 +195544,7 @@ aAs
 aAs
 aDz
 iwW
-kOf
+akq
 gwR
 sTm
 tdT
@@ -197396,13 +197396,13 @@ wVW
 wVW
 wVW
 wVW
-rTU
+akH
 soX
 sKI
 vHt
 aCb
 aDv
-gvq
+abb
 wVW
 wVW
 wVW
