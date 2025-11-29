@@ -49652,7 +49652,7 @@
 /obj/structure/machinery/cm_vending/sorted/medical/wall_med{
 	pixel_y = -25
 	},
-/turf/open/floor/almayer/silver,
+/turf/open/floor/almayer/plate,
 /area/almayer/command/cic)
 "gvu" = (
 /turf/open/floor/almayer/green/north,
@@ -65682,6 +65682,11 @@
 	},
 /turf/open/floor/plating/plating_catwalk,
 /area/almayer/hallways/lower/port_midship_hallway)
+"nbA" = (
+/obj/structure/surface/table/reinforced/black,
+/obj/item/map/galaxy,
+/turf/open/floor/carpet,
+/area/almayer/command/cicconference)
 "nbH" = (
 /obj/structure/pipes/standard/simple/hidden/supply{
 	dir = 4
@@ -78076,6 +78081,12 @@
 /obj/effect/decal/cleanable/blood/oil/streak,
 /turf/open/floor/almayer/plate,
 /area/almayer/engineering/upper_engineering/port)
+"rTU" = (
+/obj/structure/sign/third_fleet_info{
+	pixel_y = 29
+	},
+/turf/open/floor/almayer/plate,
+/area/almayer/command/cic)
 "rTZ" = (
 /obj/structure/sign/safety/maint{
 	pixel_x = -17
@@ -88680,6 +88691,9 @@
 	},
 /obj/item/device/cotablet,
 /obj/item/device/radio/headset/almayer/mcom/cdrcom,
+/obj/structure/machinery/light{
+	dir = 1
+	},
 /turf/open/floor/almayer/silver/north,
 /area/almayer/command/cic)
 "wcm" = (
@@ -195530,7 +195544,7 @@ aAs
 aAs
 aDz
 iwW
-sTm
+nbA
 gwR
 sTm
 tdT
@@ -197382,13 +197396,13 @@ wVW
 wVW
 wVW
 wVW
-rOC
+rTU
 soX
 sKI
 vHt
 aCb
 aDv
-aEC
+gvq
 wVW
 wVW
 wVW
@@ -197491,7 +197505,7 @@ avY
 aAE
 aCq
 aBV
-gvq
+aEA
 wVW
 lrW
 mqh
