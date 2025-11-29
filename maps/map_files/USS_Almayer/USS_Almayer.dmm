@@ -60321,6 +60321,11 @@
 /obj/structure/cargo_container/uscm/right,
 /turf/open/floor/almayer/no_build/plating,
 /area/almayer/underdeck/req)
+"kOf" = (
+/obj/structure/surface/table/reinforced/black,
+/obj/item/map/galaxy,
+/turf/open/floor/carpet,
+/area/almayer/command/cicconference)
 "kOo" = (
 /obj/effect/decal/warning_stripes{
 	icon_state = "W"
@@ -195539,7 +195544,7 @@ aAs
 aAs
 aDz
 iwW
-sTm
+kOf
 gwR
 sTm
 tdT
